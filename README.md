@@ -1,2 +1,2 @@
 # hello-world
-Demo repo
+This is a demo project that demonstrates how to use git and github
